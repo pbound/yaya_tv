@@ -51,7 +51,18 @@
           "url": "https://edge2-nrt.live.mmcdn.com/live-hls/amlst:lita_lalita-sd-102266dc2145f5522a8d59426c75b76b8efa3da1854b4c83d437eb1024b619b5_trns_h264/playlist.m3u8",
           "referer": "https://mlive24.com/"
         },
-
+{
+          "name": "violetreyy",
+          "image": "https://image.dek-d.com/27/0332/3328/114200493",
+          "url": "https://edge16-nrt.live.mmcdn.com/live-hls/amlst:violetreyy-sd-67085c812b6fc8e9f88e46bc24f1790a6905c4e565cd4c5f1f999f0ad66eabf2_trns_h264/playlist.m3u8"
+          "referer": "https://mlive24.com/"
+        },
+{
+          "name": "mayacream",
+          "image": "https://image.dek-d.com/27/0332/3328/114200493",
+          "url": "https://edge2-sin.live.mmcdn.com/live-hls/amlst:mayacream-sd-5757edf7e47d66f38d17df05ba9fcf3b762502fe46a1e0fa6137b0f8d25ce074_trns_h264/playlist.m3u8"
+          "referer": "https://mlive24.com/"
+        },
       ]
     },
 {
