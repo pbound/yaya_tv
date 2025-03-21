@@ -63,6 +63,12 @@
           "url": "https://edge2-sin.live.mmcdn.com/live-hls/amlst:mayacream-sd-5757edf7e47d66f38d17df05ba9fcf3b762502fe46a1e0fa6137b0f8d25ce074_trns_h264/playlist.m3u8"
           "referer": "https://mlive24.com/"
         },
+{
+          "name": "jayjoy",
+          "image": "https://image.dek-d.com/27/0332/3328/114200493",
+          "url": "https://media-hls.doppiocdn.net/b-hls-11/169296773/169296773.m3u8"
+          "referer": "https://mlive24.com/"
+        },
       ]
     },
 {
