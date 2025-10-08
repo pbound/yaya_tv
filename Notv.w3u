@@ -12,43 +12,43 @@
 {
           "name": "1 ",
           "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://b-hls-17.doppiocdn.live/hls/164674527/164674527.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/164674527/164674527.m3u8",
           "referer": ""
         },
 {
-          "name": "i_see_aysi ",
+          "name": "2 ",
           "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://edge14-nrt.live.mmcdn.com/live-hls/amlst:i_see_aysi-sd-0e0c379f0cdc62148786e56d208916cc97c19b26ff06d405fb359dc409efbc9d_trns_h264/playlist.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/220433451/220433451.m3u8",
           "referer": "https://mlive24.com/"
         },
 {
           "name": "3 ",
          "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://edge-hls.doppiocdn.org/hls/206129473/master/206129473_auto.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/206129473/206129473.m3u8",
           "referer": "https://mlive24.com/"
         },
 {
-          "name": "sweetkira ",
+          "name": "4 ",
            "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://edge15-nrt.live.mmcdn.com/live-hls/amlst:sweetkira555-sd-3a46437140305ae667ad945f0343ad7317211d76e781346d12d742683db6206b_trns_h264/playlist.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/200957898/200957898.m3u8",
           "referer": "https://mlive24.com/"
         },
 {
           "name": "5",
           "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://edge-hls.sagcoreedge.com/hls/190747404/master/190747404.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/190747404/190747404.m3u8",
           "referer": "https://mlive24.com/"
         },
 {
           "name": "ning",
           "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://edge6-sin.live.mmcdn.com/live-hls/amlst:ningsunny-sd-ab41b2ebc7aa4a1a62411760dd957292a34f8bcab409d1c3156ae4d3b2a0f765_trns_h264/playlist.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/198143665/198143665.m3u8",
           "referer": "https://mlive24.com/"
         },
 {
           "name": "lita_lalita",
           "image": "https://image.dek-d.com/27/0332/3328/114200493",
-          "url": "https://edge2-nrt.live.mmcdn.com/live-hls/amlst:lita_lalita-sd-102266dc2145f5522a8d59426c75b76b8efa3da1854b4c83d437eb1024b619b5_trns_h264/playlist.m3u8",
+          "url": "https://media-hls.saawsedge.com/b-hls-20/207437258/207437258.m3u8",
           "referer": "https://mlive24.com/"
         },
 {
